@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/barcode4j-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/com-jaspersoft-ireport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/opencv-2.4.8-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/opencv-2.4.8-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/com-jaspersoft-jrx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javacv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/DateChooserDemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jasperreports-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/iText-2.1.7.js2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/iTextAsian.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/ffmpeg-2.1.1-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/ffmpeg-2.1.1-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javacpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/com-jaspersoft-ireport-components.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javacv-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/com-jaspersoft-ireport-jasperserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/javacv-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/dom4j-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/JTattoo-1.6.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jasper-compiler-jdt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
